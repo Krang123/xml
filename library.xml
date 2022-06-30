@@ -1,1 +1,31 @@
+<?xml version="1.0" encoding ="ISO-8859-1"?>
+<BIBLIO SUBJECT="exemple">
+
+    <BOOK LANG="fr" SUBJECT="Informatique">
+        <AUTHOR> 
+            <FIRSTNAME>John</FIRSTNAME>
+            <LASTNAME>Doe<LASTNAME>
+         </AUTHOR>
+         <TITLE>a title</TITLE>
+        <PUBLISHER>
+            <NAME>a publisher</NAME>
+            <PLACE>a place</PLACE>
+         </PUBLISHER>
+         <DATEPUB>2022</DATEPUB>
+    </BOOK>
+
+    <BOOK LANG="fr" SUBJECT="economy">
+        <AUTHOR> 
+            <FIRSTNAME>li</FIRSTNAME>
+            <LASTNAME>Ds<LASTNAME>
+        </AUTHOR>
+        <TITLE>a class</TITLE>
+        <PUBLISHER>
+            <NAME>a stock</NAME>
+            <PLACE>berlin</PLACE>
+        </PUBLISHER>
+        <DATEPUB>2000</DATEPUB>
+    </BOOK>
+
+</BIBLIO>
 

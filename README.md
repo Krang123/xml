@@ -1,2 +1,4 @@
 # xml
-help exchange datas
+help exchange datas  
+can create your own balises  
+standard languages1			
